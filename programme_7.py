@@ -13,7 +13,7 @@ x = 3 > 4 or 4 > 5 ;
 print ( x ) ;
 
 x = 5 and 4 ;    # if operands are non boolean result is non boolean
-print ( x  ) ;   #  if first operand false result first value and if first value false the value second operand
+print ( x  ) ;   #  if first operand false result first value and if first value true the value second operand
 
 x = 4 or 3 ;
 print ( x ) ;  # this is vise versa of and operator
