@@ -13,7 +13,7 @@ print ("The factorial of %d is = %d" %(N, fact) )
 
 
 
-# Python script to print product of first N natural numbers
+# Python script to print product of first N odd natural numbers
 
 N = int( input ( "Enter a natural number = " ) )
 x = 0
